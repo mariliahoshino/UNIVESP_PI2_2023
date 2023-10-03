@@ -1,0 +1,164 @@
+<!--model List<Emprestimo> //  model ICollection<Emprestimo>  -->
+@model List<Emprestimo>
+@{
+    ViewData["Title"] = "Listagem de Empréstimos";
+    string Classe = "";
+    //alterado para melhorias de itens por pagina 2021 10 10
+
+    int FiltroPorPag = Int32.Parse(ViewData["EmprestimosPorPagina"].ToString());
+    int PaginaAtual = Int32.Parse(ViewData["PaginaAtual"].ToString());
+    int NumEmprestimoPorPag = (Model.Count < FiltroPorPag ? Model.Count : FiltroPorPag);
+    int NumTotalDePag = (Model.Count / NumEmprestimoPorPag) + (Model.Count % NumEmprestimoPorPag == 0 ? 0 : 1);
+
+    //fim melhoria aqui
+
+
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <form class="form-inline" method="POST">
+            <div class="form-group mb-2">
+                <select name="TipoFiltro" class="form-control">
+
+                    <option value="Usuario">Usuário</option>
+                    <option value="Livro">Livro</option>
+                </select>
+            </div>
+            <div class="form-group mb-2 mx-sm-3">
+                <input type="text" placeholder="Filtro" name="Filtro" class="form-control" />
+            </div>
+
+
+
+
+            <!--continuação melhoria 2021 10 10 -->
+
+            <div>
+                <select name="itensPorPagina" id="itensPorPagina">
+                    <option value="10">10</option>
+                    <option value="15">15</option>
+                    <option value="30">30</option>
+                    <option value="50">50</option>
+                    <option value="@Model.Count">Exibir Tudo</option>
+                </select>
+            </div>
+
+            <!-- fim melhoria -->
+
+
+            <button type="submit" class="btn btn-primary mb-2">Pesquisar</button>
+
+            <!-- melhoria 2021 10 10 -->
+
+            <div id="SeletorPaginas">
+                <span>Página:</span>
+                @for (int i = 1; i <= NumTotalDePag; i++)
+                {
+                    <span><a href="/Emprestimo/Listagem?PaginaAtual=@i">@i, </a></span>
+                    /////////////////
+                }
+            </div>
+            <!--melhoria-->
+
+        </form>
+    </div>
+</div>
+
+
+
+<div class="row">
+    <div class="col-md-12">
+        @if (Model.Count > 0)
+        {
+            <!-- adicionado if 2021 10 09-->
+            <table class="table table-striped">
+                <!-- mexi aqui 2021 09 21 -->
+                <!-- <table > -->
+            <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Registro do aluno</th>
+                        <th>Nome do aluno</th>
+                        <th>Data da avaliação</th>
+                        <th>Nota</th>
+                        <th></th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!--(a)foreach(Emprestimo e in Model)
+                        {-->
+                    <!--
+                            if((System.DateTime.Compare(System.DateTime.Now, e.DataDevolucao)>0) )
+                                {
+                                    Classe = "text-danger"; //fica vermelho se passou a data e não devolveu
+                                    if(e.Devolvido == true){
+                                        Classe ="text-primary"; //texto azul se devolvido for checado e se a data passou para continuar azul
+                                    }
+                                }else{   }
+                            -->
+
+
+
+
+                    @for (int i = (PaginaAtual - 1) * NumEmprestimoPorPag; i < (NumEmprestimoPorPag * PaginaAtual < Model.Count ?
+                   NumEmprestimoPorPag * PaginaAtual : Model.Count); i++)
+                    {
+
+
+                        <!--foreach (Emprestimo e in Model)
+                                    {-->
+                        if ((System.DateTime.Compare(System.DateTime.Now, Model[i].DataDevolucao) > 0))
+                        {
+                            Classe = "text-danger"; //fica vermelho se passou a data e não devolveu
+                            if ( Model[i].Devolvido == true)
+                            {
+                                Classe = "text-primary"; //texto azul se devolvido for checado e se a data passou para continuar azul
+                            }
+                        }
+                        else { Classe = ""; }
+
+
+
+                        <tr class="@Classe">
+                            <td>@Model[i].Id</td>
+                            <td>@Model[i].Telefone</td>
+                            <td>@Model[i].NomeUsuario</td>
+                            <td>@Model[i].DataEmprestimo.ToString("dd/MM/yyyy")</td>
+                            <td>@Model[i].DataDevolucao.ToString("dd/MM/yyyy")</td>
+                            <td>@Model[i].Livro.Autor</td>
+                            <td><a href="/Emprestimo/Edicao/@Model[i].Id">Editar</a></td>
+                        </tr>
+
+                    }
+
+
+
+                    <!--
+                        <tr class="(a)Classe"> 
+                            <td>(a)e.Id</td>
+                            <td>(a)e.NomeUsuario</td>
+                            <td>(a)e.DataEmprestimo.ToString("dd/MM/yyyy")</td>
+                            <td>(a)e.DataDevolucao.ToString("dd/MM/yyyy")</td>
+                            <td>(a)e.Livro.Titulo</td>
+                            <td>(a)e.Livro.Autor</td>
+                            <td><a href="/Emprestimo/Edicao/(a)e.Id">Editar</a></td>
+                        </tr>-->
+
+
+                    <!--}  esse é do foreach-->
+            </tbody>
+            </table>
+            <!--
+            <a href="?=1">Página Anterior</a>
+
+            <a href="?=2">Próxima Página</a>
+            -->
+        }
+        else
+        {
+            <p>Nenhum registro encontrado.</p>
+        }
+    </div>
+</div>

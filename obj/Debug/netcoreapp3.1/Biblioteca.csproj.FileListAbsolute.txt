@@ -1,0 +1,125 @@
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.exe
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\cadastroRealizado.cshtml.g.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\editarUsuario.cshtml.g.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ExcluirUsuario.cshtml.g.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ListaDeUsuarios.cshtml.g.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\NeedAdmin.cshtml.g.cs
+C:\Users\maril\Desktop\UC7\Material Complementar\Biblioteca - netcore3.1\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\RegistrarUsuarios.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\bin\Debug\netcoreapp3.1\Biblioteca.exe
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\bin\Debug\netcoreapp3.1\Biblioteca.deps.json
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.json
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\bin\Debug\netcoreapp3.1\Biblioteca.runtimeconfig.dev.json
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\bin\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\bin\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\bin\Debug\netcoreapp3.1\Biblioteca.Views.dll
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\bin\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Biblioteca.csprojAssemblyReference.cache
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Biblioteca.AssemblyInfo.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Biblioteca.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cache
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Biblioteca.RazorAssemblyInfo.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.input.cache
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Biblioteca.TagHelpers.output.cache
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Biblioteca.RazorCoreGenerate.cache
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Cadastro.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Edicao.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Emprestimo\Listagem.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Cadastro.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edicao.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Listagem.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Livro\_FormCadastro.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\cadastroRealizado.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\editarUsuario.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ExcluirUsuario.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ListaDeUsuarios.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\NeedAdmin.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\RegistrarUsuarios.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cache
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Biblioteca.RazorTargetAssemblyInfo.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Biblioteca.Views.pdb
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Biblioteca.csproj.CopyComplete
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.Manifest.cache
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Biblioteca.dll
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Materias\Cadastro.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Materias\Edicao.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Materias\Listagem.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Materias\_FormCadastro.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Notas\Cadastro.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Notas\Edicao.cshtml.g.cs
+C:\Users\maril\Desktop\PI_univesp\Sistema_de_notas\obj\Debug\netcoreapp3.1\Razor\Views\Notas\Listagem.cshtml.g.cs
